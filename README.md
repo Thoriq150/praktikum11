@@ -1,7 +1,8 @@
 # Praktikum11
 
 # Pertemuan 15
-<img width="959" alt="image" src="https://user-images.githubusercontent.com/115771479/213110642-f9553a9d-c8b8-409c-8777-b5779b34bce4.png">
+<img width="959" alt="213110642-f9553a9d-c8b8-409c-8777-b5779b34bce4" src="https://user-images.githubusercontent.com/115950790/213148995-d9f9159f-ccbf-48a9-963f-cdb9a1994f4a.png">
+
 
 # Penjelasan
 !pip install pandas digunakan untuk menginstall package pandas di python. Package pandas digunakan untuk memanipulasi data dalam bentuk tabel (dataframe) dan digunakan untuk data analysis. Fungsi dari package pandas sangat luas, seperti melakukan operasi pada data, mengimport dan mengeksport data dari berbagai format, dan lainnya. !pip install requests digunakan untuk menginstall package requests di python. Package requests digunakan untuk melakukan HTTP request dari python.
@@ -11,8 +12,7 @@
 import pandas as pd digunakan untuk mengimport library pandas dan menyebutnya sebagai pd. Library pandas digunakan untuk memanipulasi data dalam bentuk tabel (dataframe) dan digunakan untuk data analysis.
 
 from bs4 import BeautifulSoup digunakan untuk mengimport class BeautifulSoup dari package BeautifulSoup4. Class BeautifulSoup digunakan untuk mengelola dan mengolah data dari HTML atau XML.
-
-![image](https://user-images.githubusercontent.com/115771479/213117623-61f6f5fd-370f-4ee8-b1de-9a352ff6831c.png)
+![arat](https://user-images.githubusercontent.com/115950790/213149086-5530054c-3a19-4c14-aaa4-e11764f941b6.png)
 
 # Penjelasan
 
